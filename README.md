@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio! Este site reúne informações sobre minha trajetó
 
 ## 🌐 Acesse o site
 
-👉 [Clique aqui para visitar o portfólio]()  
+👉 [Clique aqui para visitar o portfólio](https://github.com/GuilhermeXVII/Portf-lio/blob/Main/home.html)  
 
 
 ## ✨ Funcionalidades
