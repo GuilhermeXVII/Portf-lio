@@ -1,0 +1,87 @@
+body {
+  background: linear-gradient(to right, #0d0d0d, #1a1a1a);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #f1f1f1;
+  margin: 0;
+  padding: 20px;
+}
+
+.cabecalho {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  background-color: #1a1a1a;
+  border: 2px solid #ff6b00;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #ff6b00;
+}
+
+.ft {
+  height: 150px;
+  width: 150px;
+  max-width: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #ff6b00;
+}
+
+.titulo {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1.5;
+  flex: 1;
+  color: #ff6b00;
+}
+
+.posicaoLista {
+  font-size: 18px;
+  width: 100%;
+  color: #f1f1f1;
+}
+
+.persona {
+  background-color: #222;
+  border: 1px solid #ff6b00;
+  border-radius: 12px;
+  padding: 8px 12px;
+  margin: 6px 0;
+  list-style-type: none;
+  transition: background 0.3s;
+}
+
+.persona a {
+  color: #40a9ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.persona:hover {
+  background-color: #333;
+}
+
+.divisa2 {
+  background-color: #1a1a1a;
+  border: 2px dashed #ff6b00;
+  padding: 24px;
+  border-radius: 12px;
+  margin-top: 30px;
+}
+
+#eu {
+  font-size: 32px;
+  margin-bottom: 12px;
+  color: #ff6b00;
+}
+
+.nome {
+  color: #ff6b00;
+  font-weight: bold;
+}
+
+.copyriht {
+  text-align: center;
+  color: #999;
+  margin-top: 20px;
+}
