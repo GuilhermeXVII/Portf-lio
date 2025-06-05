@@ -33,7 +33,7 @@ Guilherme da Silva Rodrigues
 📧 email: gyugym2@gmail.com 
 💬 Discord: guilhermegdk980
 
-## ⚠️ Aviso legal
+## ⚠️ Aviso legal - Copyright
 
 © 2025 Guilherme da Silva Rodrigues. Todos os direitos reservados.  
 Este portfólio é protegido por direitos autorais. A reprodução total ou parcial do conteúdo aqui apresentado é proibida sem autorização prévia.
